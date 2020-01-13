@@ -5,4 +5,4 @@ print("This script prints Users environment variables:")
 
 pprint.pprint(dict(env_var),width=1)
 print("\n\n Users PATH : ")
-print("PATH :"+ env_var['PATH'])
+print("Users PATH is :"+ env_var['PATH'])
